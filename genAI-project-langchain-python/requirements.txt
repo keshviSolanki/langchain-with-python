@@ -1,0 +1,11 @@
+
+langchain==0.3.27
+langchain-core==0.3.79
+langchain-community==0.3.31
+langchain-groq==0.3.8
+langchainhub==0.1.21
+packaging==24.2
+duckduckgo-search>=8.0.0
+requests>=2.32.0
+python-dotenv>=1.0.1
+ddgs>=9.0.0
